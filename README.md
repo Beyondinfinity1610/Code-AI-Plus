@@ -121,4 +121,7 @@ This project is licensed under the MIT License - because sharing is caring!
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Happy coding">
 <p><em>Happy coding from Thejeshwaar with ❤️</em></p>
 </div>
+## 🙏 Acknowledgments
+
+- **Special thanks to [rk18113]** for the initial idea inspiration - 
 
