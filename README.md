@@ -1,10 +1,27 @@
-# Code Assist Plus 🚀
+<img width="1758" height="864" alt="image" src="https://github.com/user-attachments/assets/be4dd669-3a88-4573-9a7e-55bd787efb9d" /># Code Assist Plus 🚀
 > Because even developers need a wingman for their code!
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding wizard">
   <p><em>*You writing code with AI assistance*</em></p>
 </div>
+
+
+## 🎨 Screenshots That'll Make You Smile
+<img width="1779" height="929" alt="image" src="https://github.com/user-attachments/assets/8c9d5239-0dd9-4d74-9154-10a86fc55d47" />
+
+<img width="1758" height="864" alt="image" src="https://github.com/user-attachments/assets/92f3b796-a860-4825-9ac2-5440fa1e4bd7" />
+<img width="1749" height="913" alt="image" src="https://github.com/user-attachments/assets/4cb207fd-ff13-4b28-b1ba-a5394e46ad80" />
+<img width="1738" height="902" alt="image" src="https://github.com/user-attachments/assets/3231dc46-1aab-4a93-805e-f4f056e47500" />
+<img width="1449" height="872" alt="image" src="https://github.com/user-attachments/assets/5e817ccc-0d5d-4966-aca9-0a42104d1839" />
+
+
+
+<div align="center">
+<img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="300" alt="Mind blown">
+<p><em>*Your reaction when you see the beautiful UI*</em></p>
+</div>
+
 
 ## 🎭 What's This Magical Creation?
 
@@ -74,12 +91,7 @@ npm run dev
 
 Frontend (in client directory)
 npm run dev
-## 🎨 Screenshots That'll Make You Smile
 
-<div align="center">
-<img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="300" alt="Mind blown">
-<p><em>*Your reaction when you see the beautiful UI*</em></p>
-</div>
 
 ## 🎯 Future Plans (World Domination)
 
