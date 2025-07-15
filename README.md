@@ -9,7 +9,7 @@
 
 ## 🎨 Screenshots That'll Make You Smile
 
-<img width="1758" height="864" alt="image" src="https://github.com/user-attachments/assets/be4dd669-3a88-4573-9a7e-55bd787efb9d" />
+
 
 <img width="1779" height="929" alt="image" src="https://github.com/user-attachments/assets/8c9d5239-0dd9-4d74-9154-10a86fc55d47" />
 
